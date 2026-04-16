@@ -64,6 +64,8 @@
 
 ## Other
 
+
+#### [Dragon Zap Education](https://www.youtube.com/@dragonzapeducation)
 #### [bithacks](https://graphics.stanford.edu/~seander/bithacks.html#IntegerAbs)
 #### [MattGodbolt](https://www.youtube.com/@MattGodbolt)
 #### [Truttle1](https://www.youtube.com/@Truttle1)
