@@ -41,6 +41,7 @@
 
 ## Graphics
 
+#### [Dr. Pavel Vlašánek](https://www.youtube.com/@Dr.Vlasanek)
 #### [Graphics Programming Resources](https://gist.github.com/notnotrobby/ceef71527b4f15869133ba7b397912e9)
 #### [UofM Introduction to Computer Graphics](https://www.youtube.com/@uofmintroductiontocomputer5167)
 
