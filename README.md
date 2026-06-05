@@ -64,6 +64,11 @@
 #### [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming?tab=readme-ov-file)
 #### [LearnCPP](https://github.com/Lakhankumawat/LearnCPP)
 
+
+## Design
+
+#### [The Architecture of Open Source Applications](https://aosabook.org/en/)
+
 ## Other
 
 
