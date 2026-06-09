@@ -30,6 +30,7 @@
 
 ## GameDev
 
+#### [pvigier's blog](https://pvigier.github.io)
 #### [Jpres](https://www.youtube.com/@Jpres)
 #### [JorgeVinoRodriguez](https://www.youtube.com/@JorgeVinoRodriguez)
 #### [collisionDetection](https://www.researchgate.net/publication/374083225_COLLISION_DETECTION_IN_2D_GAMES)
