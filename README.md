@@ -22,6 +22,7 @@
 
 ## Operating System
 
+#### [256-Color VGA Programming in C](http://www.brackeen.com/vga/index.html)
 #### [nirlichtman](https://www.youtube.com/@nirlichtman)
 #### [osdev](https://wiki.osdev.org/Books)
 - **Operating Systems: Design and Implementation** - *Andrew S. Tanenbaum, and Albert S. Woodhull*
