@@ -22,6 +22,7 @@
 
 ## Operating System
 
+#### [nirlichtman](https://www.youtube.com/@nirlichtman)
 #### [osdev](https://wiki.osdev.org/Books)
 - **Operating Systems: Design and Implementation** - *Andrew S. Tanenbaum, and Albert S. Woodhull*
 - **Operating System Concepts** — *Avi Silberschatz, Peter Baer Galvin, and Greg Gagne*
